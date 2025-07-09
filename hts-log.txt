@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Jul 2025 23:35:25 at https://maryinvite.ru/thread +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.webp +*.css +*.js +*.woff +*.woff2 +*.ttf +*.eot +*.otf +*.mp4 +*.webm +*.mp3 +*.wav +*.ico +*.json +*.pdf -ad.doubleclick.net/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maryinvite.ru/thread -O1 "C:\Users\Kan\Desktop\wed" +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.webp +*.css +*.js +*.woff +*.woff2 +*.ttf +*.eot +*.otf +*.mp4 +*.webm +*.mp3 +*.wav +*.ico +*.json +*.pdf -ad.doubleclick.net/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:35:50	Error: 	"Not Found" (404) at link https://maryinvite.ru/OPR/ (from https://maryinvite.ru/thread)
+23:39:49	Error: 	"Not Found" (404) at link https://maryinvite.ru/${bgImg} (from https://maryinvite.ru/catalog)
+23:39:50	Error: 	"Not Found" (404) at link https://maryinvite.ru/${imgUrl} (from https://maryinvite.ru/Love_story)
+23:39:51	Error: 	"Not Found" (404) at link https://maryinvite.ru/${shapeBgUrl} (from https://maryinvite.ru/)
+23:39:51	Error: 	"Not Found" (404) at link https://maryinvite.ru/${miniatureLinksList[i]} (from https://maryinvite.ru/)
+23:39:56	Error: 	"Not Found" (404) at link https://dl.dropboxusercontent.com/scl/fi/nt36prxrku1d1y5c8ftgw/05-Ed-Sheeran-Perfect.mp3?rlkey=0etmkxjv1n979wb4abfsqqbob&st=m4b1y3v2&dl=0 (from https://maryinvite.ru/sea)
+23:40:40	Error: 	"Connect Error" (-4) after 2 retries at link https://rawcdn.githack.com/robots.txt (from https://maryinvite.ru/rose_birthday)
+23:40:40	Warning: 	Retry after error -4 (Connect Error) at link https://rawcdn.githack.com/Maryinvite/video/refs/heads/main/pink.mp4 (from https://maryinvite.ru/rose_birthday)
+23:41:03	Warning: 	Retry after error -4 (Connect Error) at link https://rawcdn.githack.com/Maryinvite/video/refs/heads/main/greauo.mp4 (from https://maryinvite.ru/lily)
+23:41:03	Warning: 	Retry after error -4 (Connect Error) at link https://rawcdn.githack.com/Maryinvite/video/refs/heads/main/pink.mp4 (from https://maryinvite.ru/rose_birthday)
+23:41:24	Warning: 	Retry after error -4 (Connect Error) at link https://rawcdn.githack.com/Maryinvite/video/refs/heads/main/greauo.mp4 (from https://maryinvite.ru/lily)
+23:41:24	Error: 	"Connect Error" (-4) after 2 retries at link https://rawcdn.githack.com/Maryinvite/video/refs/heads/main/pink.mp4 (from https://maryinvite.ru/rose_birthday)
+23:41:45	Error: 	"Connect Error" (-4) after 2 retries at link https://rawcdn.githack.com/Maryinvite/video/refs/heads/main/greauo.mp4 (from https://maryinvite.ru/lily)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 20 seconds : 808 links scanned, 790 files written (154560388 bytes overall) [137712264 bytes received at 362400 bytes/sec], 32172305 bytes transferred using HTTP compression in 482 files, ratio 46%, 5.5 requests per connection
+(9 errors, 4 warnings, 0 messages)
